@@ -9,7 +9,7 @@ package semana9;
  *
  * @author Carlos
  */
-public class Semana9 {
+public class Ejercicio1 {
 
     /**
      * @param args the command line arguments
